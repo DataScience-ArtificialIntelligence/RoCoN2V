@@ -1,0 +1,261 @@
+0 Speaker
+1 Chandler
+2 The Interviewer
+3 Joey
+4 Rachel
+5 Monica
+6 Phoebe
+7 Ross
+8 Sergei
+9 Customer
+10 Jade
+11 Mona
+12 Charlie
+13 Paleontologist
+14 Professore Clerk
+15 Caitlin
+16 Nurse
+17 Mr. Treeger
+18 Carol
+19 The Casting Director
+20 Emily
+21 Elizabeth
+22 Paul
+23 The Dry Cleaner
+24 Joey and Chandler
+25 Kate
+26 The Director
+27 Mr. Tribbiani
+28 Guru Saj
+29 Wayne
+30 Richard
+31 Dina
+32 Bobby
+33 Danny
+34 Krista
+35 Jill
+36 Doug
+37 Stevens
+38 Bob
+39 Mr. Franklin
+40 Director
+41 Janice
+42 Tony
+43 Peter
+44 Ticket Counter Attendant
+45 Dr. Long
+46 Charlton Heston
+47 Joshua
+48 Nancy
+49 Kim
+50 Joanna
+51 Cassie
+52 Dr. Rhodes
+53 Dr. Johnson
+54 Kristen
+55 Jester
+56 Sarah
+57 Pete
+58 The Singing Man
+59 Commercial
+60 Mark
+61 A Female Student
+62 All
+63 Cliff
+64 Tag
+65 Eric
+66 Dr. Green
+67 Mr. Heckles
+68 Mr. Geller
+69 Sophie
+70 Singer
+71 David
+72 Hitchhiker
+73 1st Customer
+74 2nd Customer
+75 3rd Customer
+76 The Presenter
+77 Policeman
+78 Duncan
+79 Jane
+80 Message
+81 Gary
+82 Bonnie
+83 Woman
+84 Leslie
+85 Isabella
+86 Joey's Hand Twin
+87 Kiki
+88 Joanne
+89 Fireman No. 3
+90 Susan
+91 Mischa
+92 The Assistant Director
+93 Mrs. Geller
+94 Emeril
+95 Man
+96 Jake
+97 Tom
+98 Lecturer
+99 The Woman
+100 Monica and Ross
+101 The Vendor
+102 Julio
+103 Janine
+104 Julie
+105 Dr. Baldhara
+106 Young Ethan
+107 Dr. Leedbetter
+108 Phoebe Sr.
+109 Katie
+110 Gunther
+111 Earl
+112 Barry
+113 Robbie
+114 Lydia
+115 Bernice
+116 Mindy
+117 Robert
+118 Issac
+119 Chloe
+120 Supervisor
+121 Kathy
+122 Voice
+123 Stu
+124 Tour Guide
+125 Dr. Ledbetter
+126 Mrs. Burgin
+127 Mr. Burgin
+128 Annabelle
+129 Flight Attendant
+130 Roger
+131 Front Desk Clerk
+132 Mr. Zelner
+133 Student
+134 Jason
+135 Guy
+136 Jim
+137 Liam
+138 Phoebe Sr
+139 Stage Director
+140 PBS Volunteer
+141 Gary Collins
+142 Carl
+143 Phoebe and Rachel
+144 The Cigarette Guy
+145 Lorraine
+146 an
+147 Richards Date
+148 Frank
+149 Rachel and Phoebe
+150 Mona's Date
+151 Ross and Joey
+152 Mike
+153 Dr. Miller
+154 Both
+155 Receptionist
+156 Mrs. Green
+157 Marc
+158 Dana
+159 The Fireman
+160 Drunken Gambler
+161 Raymond
+162 Kristin
+163 Monica and Phoebe
+164 A Student
+165 Hoshi
+166 Ben
+167 Teacher
+168 Stephanie
+169 Evil Bitch
+170 Sick Bastard
+171 Kyle
+172 Nurse #1
+173 Nurse #2
+174 Dr. Stryker Ramoray
+175 Helena
+176 Angela
+177 Steve
+178 Airline Employee
+179 Janitor
+180 Mr. Posner
+181 Mrs. Lynch
+182 Paolo
+183 Megan
+184 Joey and Ross
+185 Hombre Man
+186 Dr. Zane
+187 Alice
+188 Russell
+189 Chip
+190 The Lurker
+191 The Security Guard
+192 The Librarian
+193 The Head Librarian
+194 Guy #1
+195 Shelley
+196 Girl
+197 Leader
+198 Dr. Wesley
+199 Dr. Drake Remoray
+200 Hope
+201 Stranger
+202 Hold Voice
+203 Rick
+204 Vince
+205 Phoebe/Waitress
+206 Joey/Drake
+207 Rachel/actress
+208 Mr. Waltham
+209 Mrs. Waltham
+210 Ms. McKenna
+211 Fake Monica
+212 Doctor
+213 Boy in the Cape
+214 Mrs. Chatracus
+215 Paula
+216 Burt
+217 Ursula
+218 Older Scientist
+219 Another Tour Guide
+220 Another Scientist
+221 The Potential Roommate
+222 Aunt Lillian
+223 Ronni
+224 Cecilia
+225 Hotel Clerk
+226 Casey
+227 The Instructor
+228 Jay Leno
+229 The Smoking Woman
+230 Trudie Styler
+231 The Acting Teacher
+232 Dr. Franzblau
+233 Mrs. Tedlock
+234 The Guys
+235 The Museum Official
+236 The Croupier
+237 Jeannine
+238 The Conductor
+239 Woman On Train
+240 The Food Critic
+241 The Cooking Teacher
+242 Waiter
+243 Allesandro
+244 Terry
+245 Friend No. 2
+246 Friend No. 1
+247 Her-Friends
+248 Estelle
+249 Mrs. Tribbiani
+250 Larry
+251 Fireman No. 1
+252 Fireman No. 2
+253 Dr. Oberman
+254 Gerston
+255 Santos
+256 Petrie
+257 Maitre d'
+258 Melissa
+259 Stanley
+260 The Grip
